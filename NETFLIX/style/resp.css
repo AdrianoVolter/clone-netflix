@@ -1,0 +1,19 @@
+/*Resposividade*/
+
+@media screen and (max-width: 700%){
+    header .conteiner{
+        display: flex;
+        flex-direction: column;
+    }
+    .botao{
+        margin-top: 5px;
+        width: 300px;
+    }
+
+    
+}
+@media screen and (min-width:1000px){
+    .descricao{
+        margin-right: 50%;
+    }
+}
